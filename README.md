@@ -26,26 +26,47 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm Abdul Rafay!
+    I'm Saqlain!
 </h1>
 
-<h2>👨‍💻 &nbsp;About me</h2>
+
 
 <!-- Banner Image -->
 <img align="right" src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="450" height="430"/>
 
-<p align="left">
-  <p><strong>I'm a Full Stack Developer & Machine Learning Engineer.</strong></p>
+
   <ul align="justify">
-      <li>⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.</li>
-      <li>💼 I have 2 years of experience in designing products, building websites, and contributing code to the open-source community.</li>
-      <li>🌱 I'm honing all my skills: learning machine learning, web development, and living my life.</li>
-      <li>📖 To be the best in my field, I'm learning algorithms and the most recent web technologies.</li>
+ 
+<h1>👨‍💻 &nbsp;About me</h1>
+  <p><strong>I'm a Full Stack Developer & Machine Learning Engineer.</strong></p>
+
+<h2>🚀 My Journey</h2>
+<ul>
+  <li>Embarked on my coding journey at the age of 15, writing my first line of code.</li>
+  <li>Studied software engineering at NTU and graduated to become a Senior Full Stack Engineer.</li>
+  <li>Attained a wide range of certifications from both the 🥬Punjab IT Board , 🅿️ PIAIC,  🌏Udemy and 📗Coursera spanning Full Stack Development, Web 3.0, Blockchain, and 📱Android Development, significantly augmenting my skills and expertise.</li>
+  <li>Transitioned into freelancing, successfully completing a variety of projects, showcasing my versatility and experience.</li>
+</ul>
+
+
+ <h2>Freelance Web Developer</h2>
+<ul>
+  <li>Collaborated with startups and small businesses to create custom websites and web applications tailored to their unique needs.</li>
+  <li>Leveraged a diverse skill set in HTML, CSS, JavaScript, and various web frameworks to deliver responsive and visually appealing websites.</li>
+  <li>Managed end-to-end project lifecycles, from initial client consultations and requirements gathering to design, development, and deployment.</li>
+</ul>
+  
+
+
+<h2>🎨 Turning Code into Creativity</h2>
+
+<p>I believe that code is not just a tool but a medium for creativity. I enjoy crafting digital experiences that not only work seamlessly but also captivate and delight users. Whether it's building interactive web apps or crafting intuitive mobile interfaces, I thrive on pushing the boundaries of what's possible.</p>
+
+<h2>💼 Current Focus</h2>
+
+<p>Currently, I'm focusing on creating delightful user experiences and exploring the exciting world of server-side rendering with Next.js. I'm always eager to collaborate on innovative projects and contribute to open-source communities that share my passion for technolog
   </ul>
   
-  <p>
-    👀 Check out my <a href="https://future-insight.blog">blogs</a> and my running projects on <a href="https://github.com/rafay99-epic">GitHub</a> and give me your feedback ❤️
-  </p>
 
 
 <br><br><br>
@@ -61,18 +82,5 @@
 
 
 
-<h2>🔥 &nbsp; My GitHub Stats</h2>
 
-<h3>🚀 &nbsp; GitHub Commits</h3>
-<p align="center">
-  <img src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/a9f7a33c-2e0f-4577-8d83-1ed0f7a94fe6">
-</p>
-
-
-<h3>🏆 &nbsp; Github Trophies </h3> 
-<p align="center">
-  <a href="https://github.com/rafay99-epic">
-    <img src="https://github-profile-trophy.vercel.app/?username=rafay99-epic&theme=tokyonight&row=3&column=5&margin-w=15&margin-h=15&no-bg=true" alt="rafay99-epic" />
-  </a>
-</p>
 
