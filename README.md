@@ -45,7 +45,7 @@
 <ul>
   <li>Embarked on my coding journey at the age of 15, writing my first line of code.</li> 
   <br>
-  <li>Studied software engineering at NTU and graduated to become a Senior Full Stack Engineer.</li>
+  <li>Studied software engineering at NTU and start journey to become a Senior Full Stack Engineer.</li>
   <br>
   <li>Attained a wide range of certifications from both the 🥬Punjab IT Board , 🅿️ PIAIC,  🌏Udemy and 📗Coursera spanning Full Stack Development, Web 3.0, Blockchain, and 📱Android Development, significantly augmenting my skills and expertise.</li>
   <br>
