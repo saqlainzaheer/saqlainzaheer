@@ -22,7 +22,7 @@
 </p>
 
 <div>  
-<h1 align="center" style="border-bottom: none">
+<h1 align="center">
     Hi There
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -52,39 +52,73 @@
   <li>Transitioned into freelancing, successfully completing a variety of projects, showcasing my versatility and experience.</li>
 </ul>
 
-
- <h2>Freelance Web Developer</h2>
+<br>
+<br>
+ <h2>💼 Work Experience</h2>
 <ul>
   <li>Collaborated with startups and small businesses to create custom websites and web applications tailored to their unique needs.</li>
+  <br>
   <li>Leveraged a diverse skill set in HTML, CSS, JavaScript, and various web frameworks to deliver responsive and visually appealing websites.</li>
+  <br>
   <li>Managed end-to-end project lifecycles, from initial client consultations and requirements gathering to design, development, and deployment.</li>
 </ul>
+<br>
+<h2 align="left">🧮 &nbsp;Skills :</h2>
+<ul>
+<p>
   
-
-
-<h2>🎨 Turning Code into Creativity</h2>
-
-<p>I believe that code is not just a tool but a medium for creativity. I enjoy crafting digital experiences that not only work seamlessly but also captivate and delight users. Whether it's building interactive web apps or crafting intuitive mobile interfaces, I thrive on pushing the boundaries of what's possible.</p>
-
-<h2>💼 Current Focus</h2>
-
-<p>Currently, I'm focusing on creating delightful user experiences and exploring the exciting world of server-side rendering with Next.js. I'm always eager to collaborate on innovative projects and contribute to open-source communities that share my passion for technolog
-  </ul>
+👩‍💻 Object-Oriented Programming (OOP)
+</p>
+<p>
+📊 Data Structures and Algorithms
   
-
-
-<br><br><br>
+</p>
+<P>
+  
+📋 Software Requirement Gathering Techniques
+</P>
+<P>
+🏗️ Software Architecture and Design Principles
+  
+</P>
+<P>
+🌐 Networking
+  
+</P>
+</ul>
 <br>
 <!--Tools & Language -->
 <h2 align="left">🧰 &nbsp; Languages and Tools:</h2>
+ <hr>
+ <strong>
+  <p align="center">LANGUAGES</p>  
+</strong>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,bootstrap,nodejs,django,flask,git,firebase,react,markdown,bash,powershell,express,bootstrap,dart,electron,materialui,netlify,stackoverflow,unity,visualstudio,tensorflow,sass" />
-  <br>
-    <img src="https://skillicons.dev/icons?i=mysql,angular,bash,vscode,ts,aws,gcp,mongodb,linux,neovim,androidstudio,flutter,gtk" />
+  <img align="center" src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,cs" />
 </p>
-<br>
 
+<!-- Frameworks Section -->
+<strong>
+  <p align="center">FRAMEWORKS</p>  
+</strong>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap" />
+</p>
 
+<!-- Libraries Section -->
+<strong>
+  <p align="center">LIBRARIES</p>  
+</strong>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=redux,sass,tailwind" />
+</p>
 
+<!-- Additional Tools Section -->
+<strong>
+  <p align="center">DATABASE & ADDITIONAL TOOLS</p>  
+</strong>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,netlify,vercel,vite,wordpress,dotnet" />
+</p>
 
 
