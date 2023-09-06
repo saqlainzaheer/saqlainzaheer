@@ -1,6 +1,4 @@
 <!----  https://github-contributions.vercel.app/ --->
-
-<br>
 <br>
 <!-- Intro Image -->
 <p align="center">
@@ -32,14 +30,13 @@
 </h1> 
   <p align="center"><strong>I'm not everything I want to be,but I'm more <br>than I was. and I'm still learning.</strong></p>
 </div>
-
-
-
 <!-- Banner Image -->
+<img align="right" src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="450" height="350"/>
+  <br>
+  
 
-  <ul align="justify">
+ <ul align="left">
 
-<img align="right" src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="450" height="430"/>
 
 <h2>🚀 My Journey</h2>
 <ul>
@@ -51,6 +48,8 @@
   <br>
   <li>Transitioned into freelancing, successfully completing a variety of projects, showcasing my versatility and experience.</li>
 </ul>
+  
+
 
 <br>
 <br>
