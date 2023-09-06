@@ -7,6 +7,7 @@
   <img src="https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png">
 </p>
 
+
 <!-- Socail Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rafay1999/" style="margin-right: 20px;">
@@ -20,31 +21,34 @@
   </a>
 </p>
 
-<h1 align="center">
+<div>  
+<h1 align="center" style="border-bottom: none">
     Hi There
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
     I'm Saqlain!
-</h1>
+</h1> 
+  <p align="center"><strong>I'm not everything I want to be,but I'm more <br>than I was. and I'm still learning.</strong></p>
+</div>
 
 
 
 <!-- Banner Image -->
-<img align="right" src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="450" height="430"/>
-
 
   <ul align="justify">
- 
-<h1>👨‍💻 &nbsp;About me</h1>
-  <p><strong>I'm a Full Stack Developer & Machine Learning Engineer.</strong></p>
+
+<img align="right" src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="450" height="430"/>
 
 <h2>🚀 My Journey</h2>
 <ul>
-  <li>Embarked on my coding journey at the age of 15, writing my first line of code.</li>
+  <li>Embarked on my coding journey at the age of 15, writing my first line of code.</li> 
+  <br>
   <li>Studied software engineering at NTU and graduated to become a Senior Full Stack Engineer.</li>
+  <br>
   <li>Attained a wide range of certifications from both the 🥬Punjab IT Board , 🅿️ PIAIC,  🌏Udemy and 📗Coursera spanning Full Stack Development, Web 3.0, Blockchain, and 📱Android Development, significantly augmenting my skills and expertise.</li>
+  <br>
   <li>Transitioned into freelancing, successfully completing a variety of projects, showcasing my versatility and experience.</li>
 </ul>
 
