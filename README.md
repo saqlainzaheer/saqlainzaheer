@@ -8,16 +8,10 @@
 
 <!-- Socail Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rafay1999/" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/saqlain-zaheer-a4b10a290/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="display: block; margin: auto;">
   </a>
-  <a href="https://future-insight.blog" style="margin-right: 20px;">
-    <img src="https://img.shields.io/badge/Blog%20Website-orange?style=for-the-badge" alt="Blog Website Badge" style="display: block; margin: auto;">
-  </a>
-  <a href="https://twitter.com/abdul_rafay99">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="display: block; margin: auto;">
-  </a>
-</p>
+  
 
 <div>  
 <h1 align="center">
